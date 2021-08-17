@@ -1,0 +1,54 @@
+body{
+    font-family: 'Montserrat';
+    font-size: large;
+    background-color: #CCF2F4;
+}
+.title{
+    color: #001E6C;
+    font-size:3rem;
+    padding-top: 10%;
+}
+.subtitle{
+    color:#5089C6;
+
+}
+
+.download-button{
+    color: #035397;
+}
+.title-image{
+    height: 160%;
+}
+
+/* feature section */
+#features{
+    padding-top: 50px;
+    background-color: #bff7fd;
+    padding-bottom: 50px;
+    margin-top: 100px;
+    position: relative;
+    z-index: 1;
+}
+
+.feature-row{
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.feature-col{
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+   height: 300px;
+}
+.feature-col img{
+    width: 200px;
+}
+
+.feature-col>a{
+    display: inline-block;
+}
+
+/* customer page */
