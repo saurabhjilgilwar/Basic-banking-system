@@ -1,5 +1,5 @@
 <?php
-require 'includes/common.php';
+// require 'includes/common.php';
 $name=mysqli_real_escape_string($con,$_POST['fname']);
 $email=mysqli_real_escape_string($con,$_POST['email']);
 $gender=mysqli_real_escape_string($con,$_POST['gender']);

@@ -7,7 +7,7 @@
     
 ?>
 <?php
-$con = mysqli_connect("127.0.0.1","root","","banking_db") or die(mysqli_error($con));
+$con = mysqli_connect("remotemysql.com","Lj4dNc7PQO","bqs3hFzlP9","Lj4dNc7PQO") or die(mysqli_error($con));
 ?>
 
 <?php 
