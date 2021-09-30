@@ -1,16 +1,16 @@
 <?php
-//    development database
-    $host = '127.0.0.1';
-    $db = 'banking_db';
-    $usern = 'root';
-    $pass = '';
-    $charset = 'utf8mb4';
+// //    development database
+//     $host = '127.0.0.1';
+//     $db = 'banking_db';
+//     $usern = 'root';
+//     $pass = '';
+//     $charset = 'utf8mb4';
 
     //remote database connection
-    $host = 'sql6.freemysqlhosting.net';
-    $db = 'sql6437086';
-    $usern = 'sql6437086';
-    $pass = 'RRgdfCWt7t';
+    $host = 'btnmfzp9zmt7jaxtmsxf-mysql.services.clever-cloud.com';
+    $db = 'btnmfzp9zmt7jaxtmsxf';
+    $usern = 'udn48nietri1poh0';
+    $pass = 'gb1aYnra23cX51oHma6z';
     $charset = 'utf8mb4';
 
     $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
