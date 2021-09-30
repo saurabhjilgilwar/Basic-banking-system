@@ -7,7 +7,7 @@
     
 ?>
 <?php
-$con = mysqli_connect("remotemysql.com","Lj4dNc7PQO","bqs3hFzlP9","Lj4dNc7PQO") or die(mysqli_error($con));
+$con = mysqli_connect("btnmfzp9zmt7jaxtmsxf-mysql.services.clever-cloud.com","udn48nietri1poh0","gb1aYnra23cX51oHma6z","btnmfzp9zmt7jaxtmsxf") or die(mysqli_error($con));
 ?>
 
 <?php 
