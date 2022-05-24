@@ -1,5 +1,5 @@
-# Basic-banking-system
-This is project under The Spark Foundation
+# Basic-banking-system And Database handling
+This is Final year project at VJTI
 
 Link : https://basic-banking-system-saurabh.herokuapp.com/
 
